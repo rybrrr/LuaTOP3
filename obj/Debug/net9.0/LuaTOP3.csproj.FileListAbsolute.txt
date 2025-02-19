@@ -1,0 +1,5 @@
+o:\GITHUB\LuaTOP3\obj\Debug\net9.0\LuaTOP3.GeneratedMSBuildEditorConfig.editorconfig
+o:\GITHUB\LuaTOP3\obj\Debug\net9.0\LuaTOP3.AssemblyInfoInputs.cache
+o:\GITHUB\LuaTOP3\obj\Debug\net9.0\LuaTOP3.AssemblyInfo.cs
+o:\GITHUB\LuaTOP3\obj\Debug\net9.0\LuaTOP3.csproj.CoreCompileInputs.cache
+o:\GITHUB\LuaTOP3\obj\Debug\net9.0\LuaTOP3.sourcelink.json
